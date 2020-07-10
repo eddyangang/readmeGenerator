@@ -16,6 +16,7 @@ ${data.description}
 
 ## Installation
 ${data.install}
+
 ## Usage
 ${data.usage}
 
@@ -29,7 +30,9 @@ ${data.contributors}
 ${data.test}
 
 ## Questions
+
 GitHub: [${data.userName}](${data.url})
+
 Deployed Site: [here](${data.site})
 `;
 }
